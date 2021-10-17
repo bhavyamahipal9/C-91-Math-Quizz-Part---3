@@ -1,0 +1,53 @@
+body
+{
+	background-size: cover;
+	background-position: center;
+}
+
+.login_div1 , .login_div2
+{
+	background: yellow;
+	padding: 10px;
+	float: none;
+	border-radius: 15px;
+}
+input {
+	background-color: red;
+ }
+
+ button {
+	 background-color: orange;
+ }
+
+ #info{
+	 margin-top: 150px;
+ }
+
+ #title{
+	font-family: 'Ephesis', cursive;
+	color: black;
+	font-size: 50px;
+ }
+
+ img{
+	 margin-left: 500px;
+	 margin-top: -400px;
+ }
+
+ #output{
+	 background: white;
+	 border-radius: 10px;
+	 border-top: 10px solid #aa4465;
+	 padding: 10px;
+	 float: none;
+	 text-align: left;
+ }
+
+ #question_turn, #answer_turn {
+	 color: white;
+ }
+
+ #player1_name, #player2_name, #player1_score, #player2_score {
+	 color: white;
+	 margin-left: 20px;
+ }
